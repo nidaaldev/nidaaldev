@@ -15,3 +15,4 @@ I want to collaborate on any project that requires web development, with the aim
 <img src="https://camo.githubusercontent.com/2bfb0704e2520506d25efdbda00889b0b2d099fb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3931302f312a4a5a3259437079494f4f334a666e5879323634625f412e706e67" width="50px">
 <img src="https://camo.githubusercontent.com/01e44f2f84f8fb7fdabfcabd1f9fb1069f214f8e/68747470733a2f2f73656f636f6d2e6167656e63792f77702d636f6e74656e742f75706c6f6164732f323031392f30322f626f6f7473747261702d737461636b2e706e67" width="50px"></div>
 https://github-readme-stats.vercel.app/api/top-langs/?username=NEONzDev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEONzDev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></p>
