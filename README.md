@@ -1,6 +1,6 @@
 ## NEONz Developer
 
-Hi, welcome to my profile, I am a 15 year old young man who is passionate about programming.
+Hi, welcome to my profile, I'm a 15 years young man who is passionate about programming.
 
 I want to collaborate on any project that requires web development, with the aim of learning more.
 
