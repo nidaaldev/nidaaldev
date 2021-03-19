@@ -4,7 +4,7 @@ Hi, welcome to my profile, I'm a 15 years young man who is passionate about prog
 
 I want to collaborate on any project that requires web development, with the aim of learning more.
 
-<img src="https://images.emojiterra.com/google/android-11/128px/270d.png" width="15px"> ️Right now I'm learning Java
+<img src="https://images.emojiterra.com/google/android-11/128px/270d.png" width="15px"> ️Right now I'm learning Python
 
 
 ### Tech Stack
