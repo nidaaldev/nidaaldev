@@ -1,8 +1,4 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
-<br/>
-<br/>
-
-## Heyyo, I'm <a href="https://github.com/neonzdev" target="_blank">NEONz</a>!
+## Helloo, I'm <a href="https://github.com/neonzdev" target="_blank">NEONz</a>!
 
 ### Languages and Tools:
 
