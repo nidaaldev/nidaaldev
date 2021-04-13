@@ -1,21 +1,26 @@
-## NEONz Developer
+<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
+<br/>
+<br/>
 
-Hi, welcome to my profile, I'm a 15 years young man who is passionate about programming.
+## Heyyo, I'm <a href="https://github.com/neonzdev" target="_blank">NEONz</a>!
 
-I want to collaborate on any project that requires web development, with the aim of learning more.
-
-<img src="https://images.emojiterra.com/google/android-11/128px/270d.png" width="15px"> ️Right now I'm learning Python
+### Languages and Tools:
 
 
-### Tech Stack
-<div><img src="https://camo.githubusercontent.com/8298328a921a558fc17a231edb75f35504ec6d30/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f3132303070782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" width="50px">
-<img src="https://camo.githubusercontent.com/119dffa22a5b3a64a830e3ced7bcbdc61eea862d/68747470733a2f2f7777772e72657475726e6769732e6e65742f77702d636f6e74656e742f75706c6f6164732f323031322f30352f6c6f676f5f435353332e706e67" width="50px">
-<img src="https://camo.githubusercontent.com/90af441adf3c5447116634a9b486a98426a65964/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672f32333070782d48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" width="50px">
-<img src="https://camo.githubusercontent.com/49ecaff44da673d63b6af9d04a40574af9d3d845/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64392f4e6f64652e6a735f6c6f676f2e737667" width="50px">
-<img src="https://camo.githubusercontent.com/2bfb0704e2520506d25efdbda00889b0b2d099fb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3931302f312a4a5a3259437079494f4f334a666e5879323634625f412e706e67" width="50px">
-<img src="https://camo.githubusercontent.com/01e44f2f84f8fb7fdabfcabd1f9fb1069f214f8e/68747470733a2f2f73656f636f6d2e6167656e63792f77702d636f6e74656e742f75706c6f6164732f323031392f30322f626f6f7473747261702d737461636b2e706e67" width="50px"></div>
-<br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEONzDev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></p>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<br />
+<br />
+### Softwares:
 
-![NEONzDev's github stats](https://github-readme-stats.vercel.app/api?username=NEONzDev&show_icons=true&theme=radical)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+
+<br />
+<br />
+
+
+[![NEONz's github stats](https://github-readme-stats.vercel.app/api?username=neonzdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
