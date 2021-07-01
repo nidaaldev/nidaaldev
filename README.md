@@ -4,7 +4,7 @@ I love computing and programming 👨‍💻
 
 I am currently learning frontend 🎨
 
-# Tools and technologies
+# Tools and Technologies
   - HTML
   - CSS
   - SASS
