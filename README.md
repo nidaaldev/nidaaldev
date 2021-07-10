@@ -9,6 +9,10 @@ I am currently learning frontend 🎨
   - CSS
   - SASS
   - Javascript
+  - Visual Studio Code
+  - Sublime Text
+  - Git
+  - Github
   - Linux
   - Windows
 
