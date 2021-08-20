@@ -10,10 +10,5 @@ I am currently learning frontend 🎨
   - SASS
   - Javascript
   - Visual Studio Code
-  - Sublime Text
-  - Git
-  - Github
-  - Linux
-  - Windows
 
 ![Nidal's stats](https://github-readme-stats.vercel.app/api?username=nidaaldev&show_icons=true)
