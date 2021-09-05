@@ -11,4 +11,4 @@ I am currently learning frontend 🎨
   - Javascript
   - Visual Studio Code
 
-![Nidal's stats](https://github-readme-stats.vercel.app/api?username=nidaaldev&show_icons=true)
+![Nidal's stats](https://github-readme-stats.vercel.app/api?username=nidaaldev&show_icons=true&theme=radical)
