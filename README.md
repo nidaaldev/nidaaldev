@@ -1,5 +1,3 @@
-Buy Me a Coffee:
-
 Hi 👋 My name is Nidal Dev
 ==========================
 
