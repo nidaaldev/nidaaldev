@@ -6,7 +6,7 @@ Web Developer Student
 
 *   🌍  I'm based in Barcelona, Spain
 *   ✉️  You can contact me at [neonzdeveloper@gmail.com](mailto:neonzdeveloper@gmail.com)
-*   🧠  I'm learning CSS
+*   🧠  I'm learning Rust
 *   🤝  I'm open to collaborating on Any Frontend Project
 *   ⚡  I Like Linux
 
