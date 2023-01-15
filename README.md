@@ -12,7 +12,7 @@ Web Developer Student
 
 ### Skills
 <p align="left">
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite)](https://skillicons.dev)
 
                     
  ### Socials
