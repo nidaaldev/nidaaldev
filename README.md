@@ -5,19 +5,18 @@ Web Developer Student
 ---------------------
 
 *   🌍  I'm based in Barcelona, Spain
-*   ✉️  You can contact me at [neonzdeveloper@gmail.com](mailto:neonzdeveloper@gmail.com)
 *   🧠  I'm learning Frontend
 *   🤝  I'm open to collaborating on Any Frontend Project
 *   ⚡  I Like Linux
 
 ### Skills
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,html,css,vite">
+<img src="https://skillicons.dev/icons?i=html,css,js">
 
                     
- ### Socials
+ <!-- ### Socials -->
                   
-<p align="left"> <a href="https://www.github.com/nidaaldev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nidaaldev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 
 ### Badges
 
