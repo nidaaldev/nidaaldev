@@ -5,7 +5,7 @@ Web Developer Student
 ---------------------
 
 *   🌍  I'm based in Barcelona, Spain
-*   🧠  I'm learning Frontend
+*   🧠  I'm learning Rust
 *   🤝  I'm open to collaborating on Any Frontend Project
 *   ⚡  I Like Linux
 
