@@ -5,7 +5,7 @@ Web Developer Student
 ---------------------
 
 *   🌍  I'm based in Barcelona, Spain
-*   🧠  I'm learning React
+*   🧠  I'm learning Rust 🦀
 *   🤝  I'm open to collaborating on Any Project
 *   ⚡  I Like Linux
 
