@@ -1,11 +1,11 @@
 Hi 👋 My name is Nidal Dev
 ==========================
 
-Web Developer Student
+Software Developer Student
 ---------------------
 
 *   🌍  I'm based in Barcelona, Spain
-*   🧠  I'm learning Rust 🦀
+*   🧠  I'm learning Python 🐍
 *   🤝  I'm open to collaborating on Any Project
 *   ⚡  I Like Linux
 
