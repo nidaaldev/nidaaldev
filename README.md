@@ -11,7 +11,7 @@ Software Developer Student
 
 ### Skills
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,postgres,linux,wordpress,windows,vscode">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,java,postgres,linux,wordpress,windows,vscode">
 
                     
  <!-- ### Socials -->
