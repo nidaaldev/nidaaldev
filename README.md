@@ -5,7 +5,7 @@ Software Developer Student
 ---------------------
 
 *   🌍  I'm based in Barcelona, Spain
-*   🧠  I'm learning Vue ✨
+*   🧠  I'm learning Python ✨
 *   🤝  I'm open to collaborating on Any Project
 *   ⚡  I Like Linux
 
