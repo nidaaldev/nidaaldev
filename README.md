@@ -51,7 +51,4 @@
   <a href="https://www.linkedin.com/in/nidal-lahlou/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
 </p>
