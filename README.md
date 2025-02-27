@@ -1,27 +1,57 @@
-Hi 👋 My name is Nidal Dev
-==========================
+# 👋 Hi, I'm Nidal Dev  
 
-Software Developer Student
----------------------
+## 🚀 Software Developer | Passionate about Technology  
 
-*   🌍  I'm based in Barcelona, Spain
-*   🧠  I'm learning Python ✨
-*   🤝  I'm open to collaborating on Any Project
-*   ⚡  I Like Linux
+🌍 Based in **Barcelona, Spain**  
+🧠 Currently learning **Python** ✨  
+🤝 Open to collaborating on **exciting projects**  
+⚡ Linux enthusiast  
 
-### Skills
+---
+
+## 🛠️ Tech Stack  
+
+### 🚀 Languages & Frameworks  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,postgres,linux,windows,vscode">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python" alt="Languages" />
+</p>
 
-                    
- <!-- ### Socials -->
-                  
+### 🗄️ Databases & Cloud  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="Databases" />
+</p>
 
+### 🛠️ Tools & OS  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git" alt="Tools & OS" />
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 📊 GitHub Stats  
 
-<a href="http://www.github.com/nidaaldev"><img src="https://github-readme-stats.vercel.app/api?username=nidaaldev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nidaaldev's GitHub stats" /></a>
+<p align="left">
+  <a href="https://github.com/nidaaldev">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nidaaldev&show_icons=true&theme=radical" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nidaaldev&theme=radical" />
+  </a>
+</p>
 
-<a href="https://github.com/nidaaldev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidaaldev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+  <a href="https://github.com/nidaaldev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidaaldev&layout=compact&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 📬 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nidal-lahlou/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+</p>
