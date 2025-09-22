@@ -13,7 +13,7 @@
 
 ### 🚀 Languages & Frameworks  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,java,python" alt="Languages" />
 </p>
 
 ### 🗄️ Databases & Cloud  
