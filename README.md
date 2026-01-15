@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nidal Dev  
 
-## 🚀 Software Developer | Passionate about Technology  
+## Software Developer | Passionate about Technology  
 
 🌍 Based in **Barcelona, Spain**  
 🧠 Currently learning **Python** ✨  
@@ -24,23 +24,6 @@
 ### 🛠️ Tools & OS  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git" alt="Tools & OS" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="left">
-  <a href="https://github.com/nidaaldev">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nidaaldev&show_icons=true&theme=radical" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nidaaldev&theme=radical" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/nidaaldev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidaaldev&layout=compact&theme=radical" />
-  </a>
 </p>
 
 ---
